@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">¡Hola, soy Lorenzo! 👋</h1>
+</div>
 
-<!--
-**Lorenzo-JGV/Lorenzo-JGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Personal](https://img.shields.io/github/followers/loreennzzo016?style=social)](https://github.com/loreennzzo016)
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenido/a! Soy estudiante con una enorme curiosidad por la tecnología y el desarrollo. Estas son algunas cosas que me definen:
+- 🎓 **Estudiante apasionado por el aprendizaje continuo.**
+- 💻 Explorando el mundo del desarrollo de software.
+- 🚀 Trabajando en proyectos personales para mejorar mis habilidades.
+- 🌱 Siempre en busca de nuevos retos y oportunidades para crecer.
+- 🎯 Mis intereses incluyen programación, videojuegos y diseño web.
+
+## Habilidades y herramientas
+- 🛠️ **Lenguajes:** Java, HTML, CSS
+- 🔧 **Herramientas:** GitHub, Visual Studio Code
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/loreennzzo016">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=loreennzzo016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=loreennzzo016&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
